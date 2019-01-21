@@ -36,10 +36,7 @@ pip install instapy
 
 ## Table of Contents
 * [Guides and Tutorials]()      
-* [Features]()   
-  * [Basic Features]()   
-  * [Advanced Features]()   
-  * [Third Party Features]()   
+* [Features Documentation]()   
 * [Additional Information]()   
 * [Credits]()    
   * [Contributors]()   
@@ -53,7 +50,7 @@ pip install instapy
 **[Follow Tim on Twitter](https://twitter.com/timigrossmann)**   
 
 ### Video tutorials:
-**[The official InstaPy Udemy course]()
+**[The official InstaPy Udemy course]()**   
 **[Setting up InstaPy for MacOS using Firefox](https://www.youtube.com/watch?v=A1a8J_IjSPs)**   
 **[Setting up InstaPy at Digital Ocean (for Debian)](https://www.youtube.com/watch?v=2Ci-hXU1IEY)**   
 **[Setting up InstaPy for Windows](https://www.youtube.com/watch?v=AOUraeus-XA)**   
@@ -72,6 +69,8 @@ pip install instapy
 ## Features
 How to configure quickstart file...
 
+#### [Check out the comprehensive documentation!]()
+
 ### Basic Features
 **[Quota Supervisor]()**   
 **[Commenting]()**   
@@ -79,7 +78,7 @@ How to configure quickstart file...
 **[Mandatory Words]()**   
 **[Mandatory Language]()**   
 **[Ignoring Users]()**   
-**[Excluding friends]()**   
+**[Excluding friends]()**    
 **[Restricting Likes]()**   
 **[Ignoring Restrictions]()**   
 **[Like by Locations]()**   
