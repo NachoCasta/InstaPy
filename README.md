@@ -38,10 +38,7 @@ pip install instapy
 * [Guides and Tutorials]()      
 * [Features Documentation]()   
 * [Additional Information]()   
-* [Credits]()    
-  * [Contributors]()   
-  * [Backers]()   
-  * [Supporters]()   
+* [Contributors and Supporters]()
 
 ## Guides and Tutorials
 ### News
