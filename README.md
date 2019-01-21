@@ -3,7 +3,7 @@
 > **Disclaimer**: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool.
 
 # InstaPy   
-#### Instagram bot for interaction automation using Python and Selenium   
+### Instagram bot for interaction automation using Python and Selenium   
 [![GPL3 license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/timgrossmann/InstaPy/blob/master/LICENSE)
 [![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
 [![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
@@ -19,13 +19,23 @@
   <img src="https://opencollective.com/instapy/contribute/button@2x.png?color=blue" width=300 />
 </a>    
 
+<br />
+
 <a href="https://www.paypal.me/supportInstaPy">
-	<img alt="paypalme" src="http://codeinpython.com/tutorials/wp-content/uploads/2017/09/PayPal-ME-300x300.jpg.png" width=75/>
+	<img alt="paypalme" src="http://codeinpython.com/tutorials/wp-content/uploads/2017/09/PayPal-ME-300x300.jpg.png" width=100/>
 </a>
 
+## Installation
+If you want to get InstaPy up and running in minutes without technical knowledge, please use our [quickstart guide](https://github.com/InstaPy/instapy-quickstart).   
+Get the **[official InstaPy Udemy course]()** to learn how to use InstaPy.
+
+```elm
+pip install instapy
+```
+> ⚠️ You need Chrome to run InstaPy
+
 ## Table of Contents
-* [Guides and Tutorials]()   
-* [Installation]()   
+* [Guides and Tutorials]()      
 * [Features]()   
   * [Basic Features]()   
   * [Advanced Features]()   
@@ -58,29 +68,24 @@
 **[Doing Open-Source work](https://www.youtube.com/watch?v=A_UtST302Og)**   
 **[Listen to the "Talk Python to me"-Episode](https://talkpython.fm/episodes/show/142/automating-the-web-with-selenium-and-instapy)**   
 
-### Installation:
 
-1. [Install Python](https://www.python.org/downloads/)
-1. [Install Pip](https://pip.pypa.io/en/stable/installing/)
-1. [Install Chrome](https://www.google.com/chrome/)
-1. Install InstaPy
-```bash
-pip install instapy
-```
+## Features
+### Basic Features
+### Advanced Features
+### Third party Features
+
 
 ## Additional Information
 ### Using one of the templates
 
-If you're interested in what other users setup looks like, feel free to check out the `quickstart_templates` folder which includes several working setups with different features.
+If you're interested in what other users setup looks like, feel free to check out the [quickstart templates](https://github.com/InstaPy/instapy-quickstart/tree/master/quickstart_templates) folder which includes several working setups with different features.
 
-In order to use them, just copy the desired file and put it next to the `quickstart.py` file in the, what is called root, directory.
-
-Finally simply adjust the username and any tags or firend lists before executing it.
+Simply adjust the username and any tags or firend lists before executing it.
 That's it.
 
 ### How not to be banned
 - Built-in delays prevent your account from getting banned. (Just make sure you don't like 1000s of post/day)
-- Use the Quota Supervisor feature to set some fixed limits for the bot for maximum safety.
+- Use the [Quota Supervisor]() feature to set some fixed limits for the bot for maximum safety.
 
 
 ## Credits
