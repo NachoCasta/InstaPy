@@ -32,7 +32,7 @@ Get the **[official InstaPy Udemy course]()** to learn how to use InstaPy.
 ```elm
 pip install instapy
 ```
-> ⚠️ You need Chrome to run InstaPy
+> ⚠️ You need Chrome or FireFox to run InstaPy
 
 ## Table of Contents
 * [Guides and Tutorials]()      
@@ -53,6 +53,7 @@ pip install instapy
 **[Follow Tim on Twitter](https://twitter.com/timigrossmann)**   
 
 ### Video tutorials:
+**[The official InstaPy Udemy course]()
 **[Setting up InstaPy for MacOS using Firefox](https://www.youtube.com/watch?v=A1a8J_IjSPs)**   
 **[Setting up InstaPy at Digital Ocean (for Debian)](https://www.youtube.com/watch?v=2Ci-hXU1IEY)**   
 **[Setting up InstaPy for Windows](https://www.youtube.com/watch?v=AOUraeus-XA)**   
@@ -61,7 +62,6 @@ pip install instapy
 **[How InstaPy works](https://medium.freecodecamp.com/my-open-source-instagram-bot-got-me-2-500-real-followers-for-5-in-server-costs-e40491358340)**   
 **[How to Ubuntu (64-Bit)](./docs/How_To_DO_Ubuntu_on_Digital_Ocean.md)**      
 **[How to RaspberryPi](./docs/How_to_Raspberry.md)**   
-**[How to Windows](./docs/How_to_Windows.md)**   
 
 ### Talks and Podcasts
 **[Automating Instagram with Python and Selenium](https://youtu.be/4TmKFZy-ioQ)**   
@@ -70,9 +70,64 @@ pip install instapy
 
 
 ## Features
+How to configure quickstart file...
+
 ### Basic Features
+**[Quota Supervisor]()**   
+**[Commenting]()**   
+**[Following]()**   
+**[Mandatory Words]()**   
+**[Mandatory Language]()**   
+**[Ignoring Users]()**   
+**[Excluding friends]()**   
+**[Restricting Likes]()**   
+**[Ignoring Restrictions]()**   
+**[Like by Locations]()**   
+**[Like by Tags]()**   
+**[Like by Feeds]()**   
+**[Comment by Locations]()**   
+**[Following by a list]()**   
+**[Follow someone else's followers]()**   
+**[Follow users that someone else is following]()**    
+**[Follow someone else's followers/following]()**     
+**[Follow the likers of photos of users]()**     
+**[Follow the commenters of photos of users]()**     
+**[Interact with specific users]()**   
+**[Interact with specific users' tagged posts]()**   
+**[Interact with users that someone else is following]()**   
+**[Interact with someone else's followers]()**   
+**[Interact on posts at given URLs]()**   
+**[Interact by Comments]()**   
+**[Interactions based on the number of followers and/or following a user has]()**   
+**[Interactions based on the number of posts a user has]()**   
+**[Skipping user for private account, no profile picture, business account]()**   
+**[Unfollowing]()**   
+
 ### Advanced Features
+**[Emoji Support]()**   
+**[Smart Hashtags]()**   
+**[Remove outgoing follow requests]()**   
+**[Don't unfollow active users]()**   
+**[Liking based on the number of existing likes a post has]()**   
+**[Commenting based on the number of existing comments a post has]()**   
+**[Commenting based on mandatory words in the description or first comment]()**   
+**[Blacklist Campaign]()**   
+
 ### Third party Features
+**[Text Analytics]()**   
+**[Clarifai ImageAPI]()**   
+**[Use a proxy]()**   
+
+### Additional
+**[Bypass Suspicious Login Attempt]()**   
+**[Switching to Firefox]()**   
+**[Simulation]()**   
+**[Disable Image Loading]()**    
+**[Using Multiple Chromedrivers]()**   
+**[Changing DB or Chromedriver locations]()**   
+**[Custom action delays]()**   
+**[Relationship tools]()**   
+**[Automate InstaPy]()**   
 
 
 ## Additional Information
