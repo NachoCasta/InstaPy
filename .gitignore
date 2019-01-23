@@ -12,6 +12,9 @@ docker_quickstart.py
 # C extensions
 *.so
 
+# Credentials
+credentials.json
+
 # Distribution / packaging
 .Python
 env/
