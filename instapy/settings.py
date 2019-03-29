@@ -31,8 +31,6 @@ def localize_path(*args):
 
 class Settings:
     """ Globally accessible settings throughout whole project """
-    log_location = os.path.join(BASE_DIR, 'logs')
-    database_location = os.path.join(BASE_DIR, 'db', 'instapy.db')
 
     # chromedriver-specific settings
     chromedriver_min_version = 2.33
