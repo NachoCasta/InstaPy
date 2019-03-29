@@ -13,7 +13,7 @@ class Settings:
     database_location = os.path.join(BASE_DIR, 'db', 'instapy.db')
 
     # chromedriver-specific settings
-    chromedriver_min_version = 2.36
+    chromedriver_min_version = 2.33
 
     specific_chromedriver = "chromedriver_{}".format(OS_ENV)
     chromedriver_location = os.path.join(BASE_DIR,
@@ -70,13 +70,3 @@ class Selectors:
         "//h1[text()='Likes']/../../following-sibling::div/div")
 
     likes_dialog_close_xpath = "//span[contains(@aria-label, 'Close')]"
-
-
-
-
-
-
-
-
-
-
