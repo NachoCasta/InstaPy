@@ -31,6 +31,11 @@ def localize_path(*args):
 
 class Settings:
     """ Globally accessible settings throughout whole project """
+    log_location = os.path.join(BASE_DIR, 'logs')
+    database_location = os.path.join(BASE_DIR, 'db', 'instapy.db')
+
+    # chromedriver-specific settings
+    chromedriver_min_version = 2.33
 
     # locations
     log_location = localize_path("logs")
@@ -77,6 +82,7 @@ class Settings:
 
     # This is where currently the pods server is hosted
     pods_server_endpoint = 'https://us-central1-instapy-pods.cloudfunctions.net'
+
 
 class Storage:
     """ Globally accessible standalone storage """
